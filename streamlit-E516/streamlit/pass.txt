@@ -1,0 +1,3 @@
+names = ["Bryant Sundell", "Maciel Lopez", "Ike Honaker", "guest"]
+usernames = ["bsundell", "mlopez", "ihonaker", "guest"]
+passwords = ["B12qwaszxzxasqw12", "mlopez123", "ihonaker123", "guest123"]
